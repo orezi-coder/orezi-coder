@@ -1,5 +1,3 @@
-Absolutely — here’s a polished GitHub README designed to feel like a **professional developer portfolio**, not a generic beginner profile.
-
 # OREZI CODER
 <img width="1983" height="793" alt="Orezi-Banner" src="https://github.com/user-attachments/assets/1840ad65-12b3-4897-86ba-ea1b9c8d995b" />
 
