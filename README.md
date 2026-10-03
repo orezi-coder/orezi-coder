@@ -1,7 +1,8 @@
 Absolutely — here’s a polished GitHub README designed to feel like a **professional developer portfolio**, not a generic beginner profile.
 
 # OREZI CODER
-<img width="1983" height="793" alt="ChatGPT Image Oct 3, 2026, 03_55_18 PM" src="https://github.com/user-attachments/assets/d1c4e31f-3934-44f4-8a67-a9811184a817" />
+<img width="1983" height="793" alt="Orezi-Banner" src="https://github.com/user-attachments/assets/1840ad65-12b3-4897-86ba-ea1b9c8d995b" />
+
 
 
 ### Python Developer • Data Analyst • AI Automation • Big Data
